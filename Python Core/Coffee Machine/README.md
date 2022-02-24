@@ -1,2 +1,2 @@
-Coffee Machine project: 50% complete
+Coffee Machine Project: 50% complete
 

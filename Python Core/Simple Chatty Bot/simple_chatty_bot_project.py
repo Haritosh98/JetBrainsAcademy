@@ -33,7 +33,6 @@ def count():
 
 def test():
     print("Let's test your programming knowledge.")
-    # write your code here
     
     print('What is the capital city of England?')
     print('1. London \n2. Birmingham \n3. Manchester \n4. Leeds')
@@ -51,7 +50,7 @@ def end():
     print('Congratulations, have a nice day!')
 
 
-greet('Jarvis', '2021')  # change it as you need
+greet('Jarvis', '2021')
 remind_name()
 guess_age()
 count()

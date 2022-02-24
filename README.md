@@ -1,7 +1,4 @@
-# JetBrainsAcademyCode
-The code done for JetBrains Academy Tracks
-# Coursera
-# Udemy
-# Codecademy
-# FreeCodeCamp
+# Python Core
+# Introductory Machine Learning in Python
+
 
